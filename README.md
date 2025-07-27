@@ -1,7 +1,6 @@
 # 🎨 Color Scheme Changer
-
-A simple JavaScript practice project that allows users to change the background color of the webpage with the click of a button. It's designed to help beginners understand basic DOM manipulation
-and event handling in JavaScript.
+Check this out at -https://basantae.github.io/ColourSchemeChanger/
+A simple JavaScript practice project that allows users to change the background color of the webpage with the click of a button. 
 
 ## 🚀 Features
 
